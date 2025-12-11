@@ -4,7 +4,7 @@
 
 ### 🔥 GitHub Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedmetskii&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vedmetskii)](https://git.io/streak-stats)
 
 <p>
   <a href="https://github.com/vedmetskii">
