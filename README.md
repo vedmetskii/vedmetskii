@@ -1,18 +1,4 @@
-### Привет, я Кирилл! 👋
-
----
-
-### 🔥 GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vedmetskii)](https://git.io/streak-stats)
-
-<p>
-  <a href="https://github.com/vedmetskii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedmetskii&layout=compact&theme=dracula" alt="Топ языков" />
-  </a>
-</p>
-
-### 👨‍💻 Обо мне
+# Hello, I'm Kirill
 
 Я DevOps-инженер, увлеченный автоматизацией, облачными технологиями и построением эффективных CI/CD пайплайнов. Стремлюсь к созданию надежной и масштабируемой инфраструктуры.
 
